@@ -1,0 +1,63 @@
+.a{
+    padding-top: 0%;
+    background-image: url(../media/back.png);
+    height: 80vh;
+
+}
+.c{
+    display:flex;
+    justify-content: end;
+}
+.d{
+    height:100px;
+    width:100px;
+}
+h1{
+    float:left;
+    font-weight: 10px;
+}
+.navbar
+{
+    height: 200px;
+}
+.section{
+    padding-left: 30px;
+}
+.heading{
+    color:blue;
+}
+.para
+{
+    color:blue;
+}
+
+.s{
+    color:blue;
+    font-size: 25px;
+}
+.e{
+    background-color: blue;
+    height:500px;
+    width:100%;
+}
+.r{
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
+.t{
+    color:white;
+    display:flex;
+    justify-content: center;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
